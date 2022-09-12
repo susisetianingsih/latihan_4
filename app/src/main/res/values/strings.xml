@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">latihan</string>
+    <string name="susi">Susi Setianingsih!</string>
+    <string name="maria">Maria Ulfa Chasanah</string>
+    <string name="nim_susi">H1D020044</string>
+    <string name="nim_maria">H1D020035</string>
+    <string name="kelasB">Kelas B</string>
+    <string name="foto_susi">susi.jpg</string>
+    <string name="foto_maria">mbuh.jpeg</string>
+</resources>
